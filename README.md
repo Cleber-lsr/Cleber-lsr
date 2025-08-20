@@ -9,7 +9,7 @@
   <img align="center" alt="Cleber-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cleber-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Cleber-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <div class="tenor-gif-embed" data-postid="15824704106392928134" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/oz-oz-yarimasu-cute-anime-girl-heart-gif-15824704106392928134">Oz Oz Yarimasu GIF</a>from <a href="https://tenor.com/search/oz-gifs">Oz GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img align="right" alt="anime" height="auto" widht="auto" src="https://tenor.com/view/oz-oz-yarimasu-cute-anime-girl-heart-gif-15824704106392928134">
 </div>
 
 ##
