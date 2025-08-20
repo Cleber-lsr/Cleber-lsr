@@ -9,7 +9,7 @@
   <img align="center" alt="Cleber-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cleber-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Cleber-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="anime" src="https://cdn.discordapp.com/attachments/1257726549042659440/1342204352298876929/luckystarwinkGIF-ezgif.com-resize.gif?ex=67b8c8b6&is=67b77736&hm=cf8ee82fc2122972d8ca4202a451276503feae7984dd78285132bd1731491050">
+  <div class="tenor-gif-embed" data-postid="15824704106392928134" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/oz-oz-yarimasu-cute-anime-girl-heart-gif-15824704106392928134">Oz Oz Yarimasu GIF</a>from <a href="https://tenor.com/search/oz-gifs">Oz GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 ##
